@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreekara B</h1>
-<h3 align="center">Aspiring Web Developer | MERN Stack Enthusiast | Blogger |</h3>
+<h3 align="center">Aspiring Web Developer|MERN Stack Enthusiast|Blogger|</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreek1009&label=Profile%20views&color=0e75b6&style=flat" alt="shreek1009" /> </p>
 
@@ -15,11 +15,16 @@
 
 - 📫 How to reach me **shreekarab@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/b_shreekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b_shreekara" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreekara1009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreekara1009" height="30" width="40" /></a>
 <a href="https://instagram.com/b_shreekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b_shreekara" height="30" width="40" /></a>
+<a href="/bshreekara.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="bshreekara.blogspot.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreek1009&" alt="shreek1009" /></p>
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

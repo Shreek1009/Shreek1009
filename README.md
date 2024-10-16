@@ -11,7 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shreek1009](https://github.com/Shreek1009)
 
-- 📝 I regularly write articles on [bshreekara.blogspot.com](bshreekara.blogspot.com)
+- 📝 I regularly write articles on [https://bshreekara.blogspot.com](https://bshreekara.blogspot.com)
+
 
 - 📫 How to reach me **shreekarab5@gmail.com**
 

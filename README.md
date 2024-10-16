@@ -18,6 +18,11 @@
 <!--
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ಅಜ್ಜಿ ಎಂಬ ಯುಗದ ಅಂತ್ಯ!](https://bshreekara.blogspot.com/2024/09/a-tribute-to-my-grandmother.html)
+- [My Review of the Movie Kalki!](https://bshreekara.blogspot.com/2024/07/kalki-movie-review.html)
+- [ಕಲ್ಕಿ ಸಿನಿಮಾದ ಬಗ್ಗೆ ನನ್ನದೊಂದು ವಿಮರ್ಶೆ!](https://bshreekara.blogspot.com/2024/07/blog-post.html)
+- [ಪುತ್ತೂರು ಜಾತ್ರೆ ಸಂಪನ್ನ!](https://bshreekara.blogspot.com/2024/04/puttur-jathre-concludes-today.html)
+- [ಐಪಿಎಲ್ ಪಂದ್ಯ ನೋಡುತ್ತಾ ಬಾಲ್ಯದ ಸುಂದರ ದಿನಗಳು ನೆನಪಾದಾಗ!](https://bshreekara.blogspot.com/2024/03/childhood-memories-of-summer-vacation.html)
 <!-- BLOG-POST-LIST:END -->
 
 

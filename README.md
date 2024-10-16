@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **shreekarab@gmail.com**
 
-<!--
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [ಅಜ್ಜಿ ಎಂಬ ಯುಗದ ಅಂತ್ಯ!](https://bshreekara.blogspot.com/2024/09/a-tribute-to-my-grandmother.html)

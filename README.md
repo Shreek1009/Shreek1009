@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [bshreekara.blogspot.com](bshreekara.blogspot.com)
 
-- 📫 How to reach me **shreekarab@gmail.com**
+- 📫 How to reach me **shreekarab5@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

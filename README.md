@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Shri Harihareshwara Temple Official Website**
 
-- 🌱 I’m currently learning **React, Next, Tailwind**
+- 🌱 I’m currently learning **React, Next, Nest, Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shreek1009](https://github.com/Shreek1009)
 

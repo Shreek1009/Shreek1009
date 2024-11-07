@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreekara B</h1>
-<h3 align="center">Aspiring Web Developer | MERN Stack Enthusiast | Blogger |</h3>
+<h3 align="center">Aspiring Frontend Engineer | MERN Stack Enthusiast | Content Blogger | Digital Creator |</h3>
 
 
 - 🔭 I’m currently working on **Shri Harihareshwara Temple Official Website**

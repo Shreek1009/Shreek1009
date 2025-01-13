@@ -14,11 +14,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ಏಳನೆಯ ಅಧ್ಯಾಯ ಮುಕ್ತಾಯ...!](https://bshreekara.blogspot.com/2025/01/memories-of-seventh-semester-engineering-days.html)
 - [ಏರ್ಟೆಲ್ ಏರ್ ಫೈಬರ್ ಸೇವೆಯ ಮಾಹಿತಿ ಹಾಗು ಒಂದು ವಿಮರ್ಶೆ!](https://bshreekara.blogspot.com/2024/12/my-review-on-airtel-air-fiber-service.html)
 - [ಅಜ್ಜಿ ಎಂಬ ಯುಗದ ಅಂತ್ಯ!](https://bshreekara.blogspot.com/2024/09/a-tribute-to-my-grandmother.html)
 - [My Review of the Movie Kalki!](https://bshreekara.blogspot.com/2024/07/kalki-movie-review.html)
 - [ಕಲ್ಕಿ ಸಿನಿಮಾದ ಬಗ್ಗೆ ನನ್ನದೊಂದು ವಿಮರ್ಶೆ!](https://bshreekara.blogspot.com/2024/07/blog-post.html)
-- [ಪುತ್ತೂರು ಜಾತ್ರೆ ಸಂಪನ್ನ!](https://bshreekara.blogspot.com/2024/04/puttur-jathre-concludes-today.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

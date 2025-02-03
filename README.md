@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Frontend Engineer | Tech Enthusiast | Content Blogger | Digital Creator |</h3>
 
 
-- 🔭 I’m currently working on **Shri Harihareshwara Temple Official Website**
+- 🔭 I’m currently working as **Data Engineer Intern at Oitro**
 
 - 🌱 I’m currently learning **React, Next, Nest, Tailwind**
 

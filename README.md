@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreekara B</h1>
-<h3 align="center">Aspiring Frontend Engineer | Tech Enthusiast | Content Blogger | Digital Creator |</h3>
+<h3 align="center">Data Engineer Intern at Oitro | Community Head at ISDC | Tech Enthusiast | Blogger | Photographer & Videographer</h3>
 
 
 - 🔭 I’m currently working as **Data Engineer Intern at Oitro**

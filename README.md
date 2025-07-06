@@ -14,11 +14,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ಹಳಿ ಏರಲಿಲ್ಲ ನವಯುಗ ಎಕ್ಸ್‌ಪ್ರೆಸ್! ಮತ್ತೆ ಕೇಳಿ ಬಂದ ನವಯುಗ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ರೈಲಿನ ಪುನರಾರಂಭದ ಕೂಗು! ರೈಲು ಪ್ರಯಾಣಿಕರಿಗೆ ಭರವಸೆ ತಂದ ಸಂಸದ ಕ್ಯಾ. ಬ್ರಿಜೇಶ್ ಚೌಟ ಅವರ ಪ್ರಯತ್ನ!](https://bshreekara.blogspot.com/2025/07/demand-to-restart-mangaluru-katra-navyug-exp.html)
 - [ವೀರ ಚಂದ್ರಹಾಸ! ದೊಡ್ಡಪರದೆಯಲ್ಲಿ ಕರಾವಳಿಯ ಗಂಡುಕಲೆಯ ಅಬ್ಬರ! ಹೇಗಿದೆ ಈ ಸಿನಿಮಾ!?](https://bshreekara.blogspot.com/2025/07/my-review-on-veera-chandrahasa-movie.html)
 - [ಹೇಮಂತ ಋತುವಿನಲ್ಲಿ ನೇತ್ರಾವತಿ ಶಿಖರದ ಚಾರಣ...!](https://bshreekara.blogspot.com/2025/01/one-day-trekking-to-nethravati-peak.html)
 - [ಏಳನೆಯ ಅಧ್ಯಾಯ ಮುಕ್ತಾಯ...!](https://bshreekara.blogspot.com/2025/01/memories-of-seventh-semester-engineering-days.html)
 - [ಏರ್ಟೆಲ್ ಏರ್ ಫೈಬರ್ ಸೇವೆಯ ಮಾಹಿತಿ ಹಾಗು ಒಂದು ವಿಮರ್ಶೆ!](https://bshreekara.blogspot.com/2024/12/my-review-on-airtel-air-fiber-service.html)
-- [ಅಜ್ಜಿ ಎಂಬ ಯುಗದ ಅಂತ್ಯ!](https://bshreekara.blogspot.com/2024/09/a-tribute-to-my-grandmother.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

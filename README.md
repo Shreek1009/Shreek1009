@@ -14,11 +14,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ಪುತ್ತೂರೂ-ಮಂಗಳೂರು ನಡುವೆ ಮಧ್ಯಾಹ್ನದ ವೇಳೆ ಇಲ್ಲ ರೈಲು ಸಂಪರ್ಕ! ಕೇಳಿ ಬಂತು ಮಡಗಾಂವ್-ಮಂಗಳೂರು ಮೆಮು ರೈಲಿನ ಪುತ್ತೂರು ತನಕ ವಿಸ್ತರಣೆಯ ಕೂಗು!](https://bshreekara.blogspot.com/2025/09/demand-raised-for-extension-of-madgaon-mangaluru-memu-express-to-puttur.html)
 - [The World’s Highest Hikkim Post Office: The Fascinating Story of Rinchen, Serving the Himalayas for 42 Years](https://bshreekara.blogspot.com/2025/09/the-worlds-highest-hikkim-post-office.html)
 - [ವಿಶ್ವದ ಅತ್ಯಂತ ಎತ್ತರದ ಹಿಕ್ಕಿಂ ಅಂಚೆ ಕಚೇರಿ: 42 ವರ್ಷಗಳಿಂದ ಹಿಮಾಲಯದಲ್ಲಿ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಿರುವ ರಿಂಚನ್ ಅವರ ರೋಚಕ ಕಥೆ!](https://bshreekara.blogspot.com/2025/09/story-of-hikkim-post-office-famous-as-worlds-highest-post-office.html)
 - [&quot;Su From So!&quot; – A Movie That Has the Audience Suspended in Laughter! What Is This Film Like?](https://bshreekara.blogspot.com/2025/07/su-from-so-kannada-movie-review.html)
 - [ವೀಕ್ಷಕರನ್ನು ನಗುವಿನಲ್ಲಿ ತೇಲಿಸಿ ಬಿಡುವ &quot;ಸು ಫ್ರಮ್ ಸೋ!&quot; ಸಿನಿಮಾ, ಹೇಗಿದೆ ಸಿನಿಮಾ!?](https://bshreekara.blogspot.com/2025/07/my-review-on-su-from-so-movie.html)
-- [ಹಳಿ ಏರಲಿಲ್ಲ ನವಯುಗ ಎಕ್ಸ್‌ಪ್ರೆಸ್! ಮತ್ತೆ ಕೇಳಿ ಬಂದ ನವಯುಗ ಎಕ್ಸ್‌ಪ್ರೆಸ್ ರೈಲಿನ ಪುನರಾರಂಭದ ಕೂಗು! ರೈಲು ಪ್ರಯಾಣಿಕರಿಗೆ ಭರವಸೆ ತಂದ ಸಂಸದ ಕ್ಯಾ. ಬ್ರಿಜೇಶ್ ಚೌಟ ಅವರ ಪ್ರಯತ್ನ!](https://bshreekara.blogspot.com/2025/07/demand-to-restart-mangaluru-katra-navyug-exp.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

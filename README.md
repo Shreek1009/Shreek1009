@@ -14,11 +14,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kumara Parvatha: A Trekker’s Paradise – An Unforgettable Union of Devotion and Adventure](https://bshreekara.blogspot.com/2025/12/kumara-parvatha-trekkers-paradise.html)
 - [ಚಾರಣಿಗರ ಸ್ವರ್ಗ ಕುಮಾರ ಪರ್ವತ: ಭಕ್ತಿ ಮತ್ತು ಸಾಹಸದ ಅವಿಸ್ಮರಣೀಯ ಸಂಗಮ](https://bshreekara.blogspot.com/2025/12/umara-parvatha-trek-bidalli-route-guide.html)
 - [“How is the movie Kantara? – My Opinion!”](https://bshreekara.blogspot.com/2025/10/how-is-movie-kantara-my-opinion.html)
 - [&quot;ಕಾಂತಾರ&quot; ಸಿನಿಮಾ ಹೇಗಿದೆ!? ನನ್ನದೊಂದು ಅಭಿಪ್ರಾಯ!](https://bshreekara.blogspot.com/2025/10/my-take-on-kantara-chapter-1-movie.html)
 - [ಪುತ್ತೂರೂ-ಮಂಗಳೂರು ನಡುವೆ ಮಧ್ಯಾಹ್ನದ ವೇಳೆ ಇಲ್ಲ ರೈಲು ಸಂಪರ್ಕ! ಕೇಳಿ ಬಂತು ಮಡಗಾಂವ್-ಮಂಗಳೂರು ಮೆಮು ರೈಲಿನ ಪುತ್ತೂರು ತನಕ ವಿಸ್ತರಣೆಯ ಕೂಗು!](https://bshreekara.blogspot.com/2025/09/demand-raised-for-extension-of-madgaon-mangaluru-memu-express-to-puttur.html)
-- [The World’s Highest Hikkim Post Office: The Fascinating Story of Rinchen, Serving the Himalayas for 42 Years](https://bshreekara.blogspot.com/2025/09/the-worlds-highest-hikkim-post-office.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

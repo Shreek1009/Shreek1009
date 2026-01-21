@@ -14,11 +14,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ayyappa’s Darshan Through Words: An Experience with the Novel &quot;Shauryamale&quot;](https://bshreekara.blogspot.com/2026/01/ayyappas-darshan-through-words.html)
+- [ಅಕ್ಷರ ರೂಪದಲ್ಲಿ ಅಯ್ಯಪ್ಪನ ದರ್ಶನ: &quot;ಶೌರ್ಯಮಲೆ&quot; ಕಾದಂಬರಿ ಒಂದು ಅನುಭವ](https://bshreekara.blogspot.com/2026/01/shauryamale-kannada-novel-review.html)
 - [A Gem Hidden in the Foothills of Netravati Peak: The Bolle Falls Trek Experience!](https://bshreekara.blogspot.com/2025/12/a-gem-hidden-in-foothills-of-netravati.html)
 - [ನೇತ್ರಾವತಿ ಶಿಖರದ ತಪ್ಪಲಿನಲ್ಲಿ ಅಡಗಿರುವ ಮಾಣಿಕ್ಯ: ಬೊಳ್ಳೆ ಜಲಪಾತದ ಚಾರಣ ಅನುಭವ!](https://bshreekara.blogspot.com/2025/12/-memorable-trek-to-bolle-falls.html)
 - [Kumara Parvatha: A Trekker’s Paradise – An Unforgettable Union of Devotion and Adventure](https://bshreekara.blogspot.com/2025/12/kumara-parvatha-trekkers-paradise.html)
-- [ಚಾರಣಿಗರ ಸ್ವರ್ಗ ಕುಮಾರ ಪರ್ವತ: ಭಕ್ತಿ ಮತ್ತು ಸಾಹಸದ ಅವಿಸ್ಮರಣೀಯ ಸಂಗಮ](https://bshreekara.blogspot.com/2025/12/umara-parvatha-trek-bidalli-route-guide.html)
-- [“How is the movie Kantara? – My Opinion!”](https://bshreekara.blogspot.com/2025/10/how-is-movie-kantara-my-opinion.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

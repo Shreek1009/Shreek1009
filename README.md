@@ -14,11 +14,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Adoor Shri Mahalingeshwara Temple: The Sacred Abode Where Lord Shiva Blessed Arjuna with the Pashupatastra!](https://bshreekara.blogspot.com/2026/10/adoor-shri-mahalingeshwara-temple.html)
+- [ಅರ್ಜುನನ ಭಕ್ತಿಗೆ ಒಲಿದು ಪಾಶುಪತಾಸ್ತ್ರವನ್ನು ಕರುಣಿಸಿದ ಪರಶಿವನ ಪುಣ್ಯ ಕ್ಷೇತ್ರ ಅಡೂರು ಶ್ರೀ ಮಹಾಲಿಂಗೇಶ್ವರ ದೇವಸ್ಥಾನ...!](https://bshreekara.blogspot.com/2026/10/history-of-adoor-mahalingeshwara-temple-pashupatastra-legend.html)
 - [The Special Sacred Shrine of Lord Mahavishnu Situated in the Middle of a Lake!](https://bshreekara.blogspot.com/2026/08/ananthapura-temple-kumbla-history-babiya-crocodile.html)
 - [ಕೆರೆಯ ಮಧ್ಯದಿ ನೆಲೆನಿಂತ ಮಹಾವಿಷ್ಣುವಿನ ವಿಶೇಷ ಪುಣ್ಯ ಕ್ಷೇತ್ರ!](https://bshreekara.blogspot.com/2026/08/ananthapura-ananthapadmanabha-swamy-temple-kumbla.html)
 - [The Idol Worshipped by Mother Yashoda: The Divine Legacy of Kanipura Gopalakrishna!](https://bshreekara.blogspot.com/2026/01/the-idol-worshipped-by-mother-yashoda.html)
-- [ಕೃಷ್ಣನ ಊರು ದ್ವಾರಕೆಯಿಂದ ಯಕ್ಷಗಾನದ ತವರೂರಿಗೆ ಬಂದು ನೆಲೆಸಿದ ಯಶೋಧಾಕರಾರ್ಚಿತ ಗೋಪಾಲಕೃಷ್ಣ!](https://bshreekara.blogspot.com/2026/01/mystery-of-kanipura-temple.html)
-- [Ayyappa’s Darshan Through Words: An Experience with the Novel &quot;Shauryamale&quot;](https://bshreekara.blogspot.com/2026/01/ayyappas-darshan-through-words.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
